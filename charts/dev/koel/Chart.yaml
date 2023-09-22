@@ -17,7 +17,8 @@ keywords:
     - stream
 kubeVersion: ">=1.16.0-0"
 maintainers:
-    -   name: Bogdan Kondratov
+    -   name: Bogdan
+        email: bogdan@nospam.com
         url: https://github.com/kondratovbr
 name: koel
 sources:
